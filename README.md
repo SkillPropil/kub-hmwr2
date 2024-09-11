@@ -3,4 +3,4 @@
 ## Задание 1
 <img width="1198" alt="Снимок экрана 2024-09-11 в 16 23 33" src="https://github.com/user-attachments/assets/7c41e649-d87c-4889-b01b-7872139570e0">
 ## Задание 2 
-<img width="1198" alt="Снимок экрана 2024-09-11 в 16 23 33" src="https://github.com/user-attachments/assets/e4551dae-c104-4c5d-a032-6a3614573e24">
+<img width="1305" alt="Снимок экрана 2024-09-11 в 17 10 57" src="https://github.com/user-attachments/assets/e3178227-4319-4bf5-8c79-7bad9b66a9cd">
